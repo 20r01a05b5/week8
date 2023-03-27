@@ -1,0 +1,17 @@
+1.open command injection
+
+2.we have to enter the IP address (127.0.0.1) then we can see the data related to that IP address
+
+3. if we  enter enter IP address 127.0.0.1ls then we can see all the files and folders in that IP address
+
+4. if we  enter enter IP address 127.0.0.1ls../  the we can see all then files that are present inside the files  in that IP address
+
+5. if we  enter enter IP address 127.0.0.1cat../view.source.php (file name)  then we can see all the data inside that file
+
+6.open XSS reflected cross site scripting
+
+7.if we enter command then we can see a dialog box showing hello world indicating that system is active
+
+8.open CSRF (cross site request forgery)
+
+9. if we  enter new password and confirm password the password will be changed
